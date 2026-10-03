@@ -9,3 +9,9 @@ This enhancement demonstrates my ability to redesign and expand an existing appl
 ## Enhancement Narrative
 
 The accompanying narrative explains the development process, improvements made to the original artifact, course outcomes addressed, and what I learned while completing the enhancement.
+
+### Files
+
+[View Enhancement Narrative](Software%20design%20enhancement.docx)
+
+[View Enhanced Business Operations Management System](BusinessOperationManagementSystem.zip)
