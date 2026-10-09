@@ -15,6 +15,10 @@ For this enhancement, I transformed my original Weight Tracker application into 
 [View Software Design and Engineering Enhancement](Software-Design-and-Engineering/)
 
 
+## Algorithms and Data Structures
 
+For this enhancement, I improved the Business Operations Management System by implementing a work order prioritization algorithm. The algorithm uses priority levels and the number of days a work order has been open to calculate a score. I also implemented merge sort to organize active work orders from highest to lowest priority.
+
+[View My Algorithms and Data Structures Enhancement](Algorithms-and-Data-Structures/README.md)
 
 
