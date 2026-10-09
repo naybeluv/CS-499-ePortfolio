@@ -10,4 +10,6 @@ This enhancement demonstrates my ability to apply algorithms and data structures
 
 ## Enhancement Files
 
-The enhancement narrative and source code will be available below.
+[View Enhancement Two Narrative](Algorithm%20and%20database%20enhancement.docx)
+
+[Download Enhanced BOMS Project](BusinessOperationManagementSystem.zip)
