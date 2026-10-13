@@ -10,4 +10,5 @@ These enhancements demonstrate my ability to design relational databases, mainta
 
 ## Enhancement Files
 
-The enhancement narrative and source code will be available below.
+- [Database Enhancement Narrative](Database%20enhancement.docx)
+- [Enhanced BOMS Project](BusinessOperationManagementSystem.zip)
