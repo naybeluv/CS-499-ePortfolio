@@ -22,3 +22,10 @@ For this enhancement, I improved the Business Operations Management System by im
 [View My Algorithms and Data Structures Enhancement](Algorithms-and-Data-Structures/README.md)
 
 
+## Databases
+
+For this enhancement, I expanded the Business Operations Management System's SQLite database to support inventory transactions and work order history. These improvements strengthen data organization, validation, and record tracking.
+
+[View Database Enhancement Three](Databases/README.md)
+
+
