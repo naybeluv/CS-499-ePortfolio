@@ -1,6 +1,13 @@
 # CS-499-ePortfolio
 CS Capstone 
 
+## Professional Self-Assessment
+
+Throughout my Computer Science program at Southern New Hampshire University, I have strengthened my understanding of software development, programming languages, and how technology supports business operations. My education has helped me connect my professional experience as a General Manager with my career goal of becoming a Functional Consultant.
+
+[Read My Professional Self-Assessment](Professional%20Self%20Assessment.docx)
+
+
 ## Code Review
 
 As part of my CS 499 Computer Science Capstone, I completed a code review of my selected artifact. The review examines the existing application and identifies planned enhancements in software design and engineering, algorithms and data structures, and databases.
