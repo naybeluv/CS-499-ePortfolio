@@ -7,6 +7,14 @@ Throughout my Computer Science program at Southern New Hampshire University, I h
 
 [Read My Professional Self-Assessment](Professional%20Self%20Assessment.docx)
 
+## Original Artifact: Weight Tracker Application
+
+My original artifact was a Weight Tracker application developed during my CS-360 Mobile Application Development course. I selected this application for my capstone project and enhanced it into a Business Operations Management System (BOMS).
+
+The original project is available in my Mobile Architect repository, allowing viewers to compare the application before and after the enhancements.
+
+[View Original Weight Tracker Application](https://github.com/naybeluv/Mobile-Architect)
+
 
 ## Code Review
 
