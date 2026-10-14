@@ -25,7 +25,7 @@ Shows inventory items with their quantities, allocated amounts, and replenishmen
 ### Work Order Records
 Shows work orders with their assigned priorities, statuses, and descriptions.
 
-![Work Order Records](work%20orders.png)
+![Work Order Records](work%20order.png)
 
 ### Inventory Transactions
 Shows initial stock transactions linked to inventory items, including quantities and transaction dates.
