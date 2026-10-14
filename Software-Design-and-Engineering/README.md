@@ -15,3 +15,23 @@ The accompanying narrative explains the development process, improvements made t
 [View Enhancement Narrative](Software%20design%20enhancement.docx)
 
 [View Enhanced Business Operations Management System](BusinessOperationManagementSystem.zip)
+
+
+## BOMS Application Screenshots
+
+The following screenshots demonstrate the user interface and business management features added to the application.
+
+### Login Screen
+![BOMS Login Screen](login%20screen.png)
+
+### Dashboard
+![BOMS Dashboard](dashboard.png)
+
+### Inventory List
+![Inventory List](inventory%20list.png)
+
+### Add Inventory Item
+![Add Inventory Item](add%20inventory.png)
+
+### Active Work Orders
+![Active Work Orders](active%20work%20orders.png)
