@@ -13,7 +13,8 @@ My original artifact was a Weight Tracker application developed during my CS-360
 
 The original project is available in my Mobile Architect repository, allowing viewers to compare the application before and after the enhancements.
 
-[View Original Weight Tracker Application](https://github.com/naybeluv/Mobile-Architect)
+[View Original Weight Tracker Application](WeightTrackerApp.zip)
+
 
 
 ## Code Review
