@@ -13,3 +13,12 @@ This enhancement demonstrates my ability to apply algorithms and data structures
 [View Enhancement Two Narrative](Algorithm%20and%20database%20enhancement.docx)
 
 [Download Enhanced BOMS Project](BusinessOperationManagementSystem.zip)
+
+
+## Work Order Prioritization Screenshot
+
+The screenshot below shows the Active Work Orders screen in the Business Operations Management System. The prioritization algorithm uses each work order's priority level and the amount of time it has been open to determine its position in the list.
+
+This enhancement demonstrates how algorithms can help organize work orders and support business operations.
+
+![Active Work Orders](active%20work%20orders.png)
