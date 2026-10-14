@@ -28,7 +28,7 @@ The following screenshots demonstrate the user interface and business management
 ![BOMS Dashboard](dashboard.png)
 
 ### Inventory List
-![Inventory List](inventory%20list.png)
+![Inventory List](inventroy%20list.png)
 
 ### Add Inventory Item
 ![Add Inventory Item](add%20inventory.png)
